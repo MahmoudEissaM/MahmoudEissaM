@@ -83,10 +83,7 @@
   <a href="https://www.facebook.com/mahmoud.essa.7921">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:20412020101269@science.zu.edu.eg">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="mailto:mahmoudessa8200@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmoudessa8200@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201015042946">
