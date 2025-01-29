@@ -42,9 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <br />
-  "Strong with SQL and Database Design"
-</p>
+
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
@@ -54,17 +52,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <br />
-  "Using <strong>Git</strong> & <strong>GitHub</strong> for version control, and hosting on <strong>Azure</strong>"
-</p>
+
 
 ### 🖥️ Operating Systems  
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br />
-  "Working comfortably with both <strong>Windows</strong> & <strong>Linux</strong>"
-</p>
+
 
 ---
 
