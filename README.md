@@ -3,15 +3,12 @@
 
 ---
 
-📋 **Summary**  
-🔹 Extensive experience in **Python development** with expertise in **Django** and other modern frameworks.  
-🔹 Skilled in performing complex operations using **React, JavaScript, HTML, CSS, and jQuery**.  
-🔹 Actively contributed to all phases of the **Software Development Life Cycle (SDLC)**: analysis, design, development, and testing.  
-🔹 Built and maintained web interfaces using **Python, Django, and jQuery UI**, managing over **50+ content items**.  
-🔹 Strong expertise in web service integration (**JSON, XML APIs**).  
-🔹 Familiar with various methodologies like **Waterfall, Agile, and Scrum**.  
-🔹 Delivered **robust, functional web applications** for diverse clients, optimizing mission-critical processes.  
----
+### 📋 About Me  
+🔹 Passionate **Python Full Stack Developer** with expertise in **Django & FastAPI**  
+🔹 Skilled in **React, JavaScript, HTML, CSS & UI/UX**  
+🔹 Strong knowledge of **Database Design & API Integration**  
+🔹 Experienced in **Agile, Scrum & SDLC**  
+🔹 Ope
 
 ### 📌 Skills Overview  
 
