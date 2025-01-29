@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <br />
-  "I love working with <strong>React</strong> & <strong>Typescript</strong>"
-</p>
+
 
 ### ⚙️ Backend  
 <p align="center">
