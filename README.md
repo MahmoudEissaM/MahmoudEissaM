@@ -1,5 +1,5 @@
-<h3 align="center">👨‍💻 Eng - Mahmoud Ahmed</h3>
 <h1 align="center">💻 Python Full Stack Developer</h1>
+<h3 align="center">👨‍💻 Eng - Mahmoud Ahmed</h3>
 
 ---
 
@@ -12,14 +12,31 @@
 
 ---
 
-### 🚀 Skills  
+## 🚀 Tech Stack  
+
+### 🖥️ Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,react,bootstrap,figma,git,github,mysql,postgres,sqlite,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudEissaM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -32,9 +49,18 @@
 
 ---
 
-### 📫 Connect with Me  
+## 📫 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/MahmoudEissaM">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https
+  <a href="https://github.com/MahmoudEissaM">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎉 Fun Fact  
+🐍 **Python** is my favorite language, and I love solving challenges!  
+🔥 Always learning and exploring **new technologies**!  
