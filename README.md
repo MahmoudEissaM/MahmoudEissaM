@@ -1,17 +1,16 @@
+<h3 align="center">👨‍💻Eng - Mahmoud Ahmed</h3>
 <h1 align="center">💻 Python Full Stack Developer</h1>
-<h3 align="center">👨‍💻 Mahmoud Ahmed</h3>
 
 ---
 
-### 📋 Summary
-- Extensive experience in **Python development** with expertise in Django and other modern frameworks.  
-- Skilled in performing complex operations using **React, JavaScript, HTML, CSS, and jQuery**.  
-- Actively contributed to all phases of the **SDLC**: analysis, design, development, and testing.  
-- Built and maintained web interfaces using **Python, Django, and jQuery UI**, managing over **50+ content items**.  
-- Strong expertise in web service integration (**JSON, XML APIs**).  
-- Familiar with various methodologies like **Waterfall, Agile, and Scrum**.  
-- Delivered robust, functional web applications and websites for diverse clients, optimizing mission-critical processes.  
-
+📋 **Summary**  
+🔹 Extensive experience in **Python development** with expertise in **Django** and other modern frameworks.  
+🔹 Skilled in performing complex operations using **React, JavaScript, HTML, CSS, and jQuery**.  
+🔹 Actively contributed to all phases of the **Software Development Life Cycle (SDLC)**: analysis, design, development, and testing.  
+🔹 Built and maintained web interfaces using **Python, Django, and jQuery UI**, managing over **50+ content items**.  
+🔹 Strong expertise in web service integration (**JSON, XML APIs**).  
+🔹 Familiar with various methodologies like **Waterfall, Agile, and Scrum**.  
+🔹 Delivered **robust, functional web applications** for diverse clients, optimizing mission-critical processes.  
 ---
 
 ### 📌 Skills Overview  
