@@ -4,7 +4,8 @@
 ---
 
 ### 📋 About Me  
-🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**,**Flask** and **FastAPI**
+🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**,**Flask** and **FastAPI** 
+
 🔹 Experienced in building dynamic web applications with **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, **Bootstrap** and **UI/UX**  
 🔹 Strong expertise in **Database Design**, including **MySQL**, **PostgreSQL**, and working with **JSON** for API integration  
 🔹 Skilled in developing scalable backend systems and optimizing performance  
