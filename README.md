@@ -31,7 +31,12 @@
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linkedin,vercel,azure" />
+</p>
+
+### 🖥️ Operating Systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
