@@ -5,10 +5,11 @@
 
 ### 📋 About Me  
 🔹 Passionate **Python Full Stack Developer** with expertise in **Django & FastAPI**  
-🔹 Skilled in **React, JavaScript, HTML, CSS & UI/UX**  
+🔹 Skilled in **React**, **JavaScript**, **HTML**, **CSS** & **UI/UX**  
 🔹 Strong knowledge of **Database Design & API Integration**  
-🔹 Experienced in **Agile, Scrum & SDLC**  
+🔹 Experienced in **Agile**, **Scrum** & **SDLC**  
 🔹 Open to **collaborations & exciting projects**!  
+🔹 "I'm using HTML, CSS, and JavaScript to make websites dance!"
 
 ---
 
@@ -17,26 +18,36 @@
 ### 🖥️ Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
+  <br />
+  "I love working with <strong>React</strong> & <strong>Typescript</strong>"
 </p>
 
 ### ⚙️ Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+  <br />
+  "Building scalable web applications with <strong>FastAPI</strong> and <strong>Django</strong>"
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <br />
+  "Strong with SQL and Database Design"
 </p>
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linkedin,vercel,azure" />
+  <br />
+  "Using <strong>Git</strong> & <strong>GitHub</strong> for version control, and hosting on <strong>Azure</strong>"
 </p>
 
 ### 🖥️ Operating Systems  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <br />
+  "Working comfortably with both <strong>Windows</strong> & <strong>Linux</strong>"
 </p>
 
 ---
@@ -69,3 +80,4 @@
 ### 🎉 Fun Fact  
 🐍 **Python** is my favorite language, and I love solving challenges!  
 🔥 Always learning and exploring **new technologies**!  
+"Not a cat person, but a big fan of tech!"
