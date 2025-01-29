@@ -4,8 +4,8 @@
 ---
 
 ### 📋 About Me  
-🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**, **FastAPI**, and **Flask**  
-🔹 Experienced in building dynamic web applications with **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, and **UI/UX**  
+🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**,**Flask** and **FastAPI**
+🔹 Experienced in building dynamic web applications with **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, **Bootstrap** and **UI/UX**  
 🔹 Strong expertise in **Database Design**, including **MySQL**, **PostgreSQL**, and working with **JSON** for API integration  
 🔹 Skilled in developing scalable backend systems and optimizing performance  
 🔹 Open to **collaborations** and always eager to take on **exciting projects** to grow and innovate  
@@ -62,10 +62,10 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudEissaM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudEissaM&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEissaM&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
