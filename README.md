@@ -1,11 +1,10 @@
-<h1 align="center">💻 Python Full Stack Developer</h1>
-<h3 align="center">👨‍💻 Eng - Mahmoud Ahmed</h3>
+<h2 align="center">💻 Python Full Stack Developer</h1>
+<h4 align="center">👨‍💻 Eng - Mahmoud Ahmed</h3>
 
 ---
 
 ### 📋 About Me  
-🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**,**Flask** and **FastAPI** 
-
+🔹 Passionate and results-driven **Python Full Stack Developer**, specializing in **Django**,**Flask** and **FastAPI** </br>
 🔹 Experienced in building dynamic web applications with **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, **Bootstrap** and **UI/UX**  
 🔹 Strong expertise in **Database Design**, including **MySQL**, **PostgreSQL**, and working with **JSON** for API integration  
 🔹 Skilled in developing scalable backend systems and optimizing performance  
