@@ -59,20 +59,20 @@
 ---
 
 ## 📊 GitHub Stats  
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudEissaM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudEissaM&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEissaM&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/MahmoudEissaM">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
